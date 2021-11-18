@@ -1,0 +1,7 @@
+{
+  "name": "yarn3-test",
+  "packageManager": "yarn@3.1.0",
+  "dependencies": {
+    "jest": "^27.3.1"
+  }
+}
